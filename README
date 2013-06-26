@@ -6,9 +6,10 @@ Requerimientos.
 
 Ejecucion del Programa
 1. Se instala el Kit de Desarrollo de Java
-2. Se configuran las variables de entorno en Inicio->Panel de Control->Sistema->Configuración Avanzada del Sistema->Opciones Avanzadas->Variables de Entorno
+2. Se configuran las variables de entorno en Inicio->Panel de Control->Sistema->Configuraciï¿½n Avanzada del Sistema->Opciones Avanzadas->Variables de Entorno
    Nombre de la Variable:   Nueva o Editar el Path
    Valor de Variable:   ;C:\Program Files\Java\jdk<Version de JDK>\bin
+3. ejecutar el jar AlgoritmoKaratsuba.jar que se encuentra en : KaratsubaMultiplicator\dist
 
 
 
